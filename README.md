@@ -1,16 +1,16 @@
-# expense_tracker
+# Expense Tracker App (Flutter)
 
-A new Flutter project.
+A Flutter-based expense tracker application built to understand core Flutter concepts such as state management, widget composition, and data-driven UI updates.
 
-## Getting Started
+## Features
+- Add and delete expenses
+- Category-wise expense visualization using charts
+- Responsive and clean UI
+- Cross-platform support (Android & iOS)
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter (Dart)
+- Material UI
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Current Status
+Learning project. Planned improvements include local storage (SQLite/Hive) and enhanced analytics.
